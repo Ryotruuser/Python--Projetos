@@ -1,5 +1,4 @@
-# sla.py
-sdds python
-Compilado de projetos meus de python de meados de 2017 quando comecei a me interessar pela linguagem, esse espaço e mais pra guardar esses codigos principalmente
-o FFG que e um game pretendo retormar em algum ponto no futuro, apesar de um simples jogo de nave foi bem interessante fazer ele do 0 sozinho, e um jogo que 
-representa todos meus conhecimentos na linguagem que e pouco obvio.
+<img src="https://cio.com.br/wp-content/uploads/2020/10/linguagem-programacao-python.jpg">
+<h1 align="center"> Projetos em python </h1>
+ 
+<h2 align="center">Alguns projetos desenvolvidos durante o aprendizado sobre a linguagem de programação python 3, usando a idle da pycharm.</h2>
